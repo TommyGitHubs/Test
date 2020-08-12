@@ -1,0 +1,3 @@
+[submodule "internal/cropbase"]
+	path = internal/cropbase
+	url = git@github.com:TommyGitHubs/TestSubModule.git
